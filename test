@@ -1,0 +1,10 @@
+<?php
+class IndexAction extends AdminuserAction {
+    public function index(){
+    	//欢迎页面
+        $this->display();
+    	
+    }
+}
+
+?>
